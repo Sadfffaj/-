@@ -1,0 +1,12 @@
+local v0="https://t.me/SAGGGGGGGGGGA";setclipboard(v0);_G.HeadSize=1296 -(97 + 1169) ;_G.Disabled=true;game:GetService("RunService").RenderStepped:connect(function() if _G.Disabled then for v1,v2 in next,game:GetService("Players"):GetPlayers() do if (v2.Name~=game:GetService("Players").LocalPlayer.Name) then pcall(function() local v3=1065 -(68 + 997) ;local v4;while true do if (v3==0) then v4=1270 -(226 + 1044) ;while true do if (v4==2) then v2.Character.HumanoidRootPart.CanCollide=false;break;end if (v4==(4 -3)) then v2.Character.HumanoidRootPart.BrickColor=BrickColor.new("Really black");v2.Character.HumanoidRootPart.Material="Neon";v4=119 -(32 + 85) ;end if (v4==(0 + 0)) then local v8=0 + 0 ;while true do if (v8==(958 -(892 + 65))) then v4=2 -1 ;break;end if (v8==0) then v2.Character.HumanoidRootPart.Size=Vector3.new(_G.HeadSize,_G.HeadSize,_G.HeadSize);v2.Character.HumanoidRootPart.Transparency=0.7;v8=1 -0 ;end end end end break;end end end);end end end end);
+-- ⚠️ WARNING: integrity protected!
+--[[
+ .____                  ________ ___.    _____                           __                
+ |    |    __ _______   \_____  \\_ |___/ ____\_ __  ______ ____ _____ _/  |_  ___________ 
+ |    |   |  |  \__  \   /   |   \| __ \   __\  |  \/  ___// ___\\__  \\   __\/  _ \_  __ \
+ |    |___|  |  // __ \_/    |    \ \_\ \  | |  |  /\___ \\  \___ / __ \|  | (  <_> )  | \/
+ |_______ \____/(____  /\_______  /___  /__| |____//____  >\___  >____  /__|  \____/|__|   
+         \/          \/         \/    \/                \/     \/     \/                   
+          \_Welcome to LuaObfuscator.com   (Alpha 0.10.8) ~  Much Love, Ferib 
+
+]]--
